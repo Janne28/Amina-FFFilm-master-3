@@ -1,0 +1,92 @@
+# Der Anfang eines Ordner
+/* Alles im Detail  https://fountain.io/syntax */
+.INN. ORT - ggf.GENAUER - ZEIT #Szenennummer#
+Beschreibung der Situation, der Figuren, der Umgebung und alle was wichtig ist.
+
+FIGUR1
+(hier kommt rein wie etwas gesagt wird oder eine Pause, etc.)
+Dialog?
+
+Figur 1 schaut Figur 2 fragend an.
+
+FIGUR2
+Noch mehr Dialog!!!
+
+Mit einer Zeile frei, beginnt automatisch wieder die Beschreibung von Handlung.
+Wie oben.
+
+
+#Ein Beispiel:
+
+.INN. SUPERMARKT - 2.GANG - FORTGESETZT #5#
+Amina trifft auf ihren FREUND, 17, cool, in Arbeitskleidung, welcher gerade einen Windows Laptop anzünden ist.
+
+FREUND
+(frölich)
+Oh, Amina, ich habe ein Tutorial erstellt....
+
+AMINA
+Oh, Toll. Wie lange hast du dafür gebraucht?
+
+FREUND
+Nur einen Halben Tag weil Windows ein super geiles Betriebsystem ist.
+
+AMINA
+Ammmmm....
+
+Der FREUND nimmt AMINA in den Arm und drückt die fest. Er gibt ihr einen etwas deplazierten Kuss.
+
+AMINA
+Ohje, ähm, eigentlich wollte ich dir noch eine Kleinigkeit geben..
+
+Sie übereicht ihn ein Datenträger auf dem sich ArchLinux befindt.
+Amina fängt an zu Grinsen.
+
+AMINA
+Kannst du installiern statt den Laptop anzuzünden...
+
+Sie lacht und versucht ihren FRUND auf den Mund zu küssen scheinbar passiert das nicht so häufig denn ihr FRUND wirkt ungelenk dabei.
+
+
+#Sonderfälle:
+
+.Charaktere mit kleinen Buschstaben
+Du willst einen Character der nicht komplett in GROSSBUCHSTABEN geschrieben werden kann?
+Dafür verwendest du  "@".
+
+@McCHAIN
+Jetzt funktioniert der Dialog wieder!
+
+
+.Handlung in GROSSBUCHSTABEN
+Du willst in der Handlung eine besondere Anweisung geben?
+Bspw. für eine Montage?
+Benutze "!" davor sonst ist es ein Charakter.
+
+!MONTAGE:
+Wir sehen einige verschiedene Bildausschnitte.
+
+
+.Kommentare
+Du willst einen Kommentar einfügen?
+[Schreib deinen Kommentar in diesen Klammern]
+
+
+.Unsichtbare Kommentare
+Du willst einen Kommentar schreiben, oder sonstigen Text der später nicht im Script stehen soll?
+
+/* Text, der zwischen diesen Symbolen geschrieben wird ist später unsichtbar.
+Funktioniert übrigens über mehrere Zeilen*/
+
+
+.Liedtexte
+Du willst einen Liedtext schreiben?
+
+~Alles, was du singen willst.
+~Schrebst du in mit gewellten Strichen.
+~Für jede Zeile einer.
+~Dont look back in anger
+~ Linus said that it was open
+~Linus said that it was G.P.L.
+~All could use it for whatever they like
+~And it was ok
